@@ -1,0 +1,10 @@
+{
+  "private": "true",
+  "name": "workspace-cra-theme-module",
+  "version": "1.0.0",
+  "workspaces": [
+    "portfolio",
+    "packages/*",
+    "packages/theme/demo/cra-demo"
+  ]
+}
