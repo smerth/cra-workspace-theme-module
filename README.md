@@ -52,9 +52,9 @@ Git clone the repo and run yarn in the root folder to install dependancies.
 > ```bash
 > yarn workspace theme build
 > ```
->
-> 
 
 ## More info
 
 See the docs folder
+
+https://formidable.com/blog/2019/upgrade-styled-components/
